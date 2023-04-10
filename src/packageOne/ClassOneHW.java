@@ -9,5 +9,10 @@ public class ClassOneHW {
 	public void addMethod (int a, int b) {
 		System.out.println(a + b);
 	}
+	
+	public void addMethod1 (int a, int b) {
+		System.out.println(a + b);
+	}
+	
 
 }
